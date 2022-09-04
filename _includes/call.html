@@ -1,7 +1,11 @@
 <div class="call">
   <div class="call-box-top">
     {% if site.data.contact.twitter %}
-        <div class="call-phone"><strong>Twitter: </strong> <a href="https://twitter.com/HomomorphicEnc">{{ site.data.contact.twitter }}</a></div>
+    <div class="call-phone"><strong>Twitter: </strong> 
+		<a href="https://twitter.com/{{ site.data.contact.twitter }}">
+		  @{{ site.data.contact.twitter }}
+		</a>
+	</div>
     {% endif %}
     {% if site.data.contact.email %}
     <div class="call-email"><strong>Email: </strong>
