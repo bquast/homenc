@@ -8,6 +8,15 @@ main:
   - name: "Participants"
     url: "/participants/"
     weight: 4
+  - name: "Standards Meetings"
+    url: "/meetings/"
+    weight: 4
+  - name: "Affiliated Workshops"
+    url: "/workshops/"
+    weight: 4
+  - name: "Mailing Lists"
+    url: "/mailings/"
+    weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
