@@ -38,7 +38,7 @@ There are several reasons why this is the right time to standardize homomorphic 
 ## Availability
 Several open-source implementations of homomorphic encryption schemes exist today. 
 Below is an incomplete list. 
-If you would want to see your implementation being added, please contact us at [mailto:contact@HomomorphicEncryption.org](contact@HomomorphicEncryption.org).
+If you would want to see your implementation being added, please contact us at [contact@HomomorphicEncryption.org](mailto:contact@HomomorphicEncryption.org).
 
 * Microsoft SEAL: A widely used open source library from Microsoft that supports the BFV and the CKKS schemes.
 * OpenFHE: A widely-used open source library affiliated with NumFocus from a consortium of FHE developers that supports the major FHE schemes including BGV, BFV, CKKS, TFHE and FHEW, among others, with multiparty support.
