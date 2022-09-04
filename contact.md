@@ -1,5 +1,6 @@
 ---
 title: Contact
-layout: contact
+layout: home
+intro_image: "images/illustrations/reading.svg"
 description: Contact
 ---
