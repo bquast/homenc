@@ -1,12 +1,12 @@
 main:
-  - name: "Standard"
-    url: "/standard/"
-    weight: 2
-  - name: "Participants"
-    url: "/participants/"
-    weight: 3
   - name: "Introduction"
     url: "/introduction/"
+    weight: 2
+  - name: "Standard"
+    url: "/standard/"
+    weight: 3
+  - name: "Participants"
+    url: "/participants/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
