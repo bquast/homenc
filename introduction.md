@@ -1,7 +1,7 @@
 ---
-title: About
+title: Introduction
 layout: page
-description: About
+description: introduction
 bodyClass: page-about
 ---
 
