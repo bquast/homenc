@@ -34,7 +34,7 @@ Please use the following BibTeX entry when citing the standard.
 # Draft Standard Update
 Every standards meeting we discuss potential updates to the standard.
 This Google doc is a candidate update to the standard which contains mostly small updates.
-We solicit comments on this draft update which we hope to vote on at future meetings. (January 7, 2019) [[https://docs.google.com/document/d/106W-tFEbChJQfbqEE7PnIVqEBPzYD_pqrMn55UKDCOc/edit?usp=sharing](Google Doc)]
+We solicit comments on this draft update which we hope to vote on at future meetings. (January 7, 2019) [[Google Doc](https://docs.google.com/document/d/106W-tFEbChJQfbqEE7PnIVqEBPzYD_pqrMn55UKDCOc/)]
 
 # Download Old Versions of the Standard
-Download the Homomorphic Encryption Security Standard (March 16, 2018) [[/assets/oldlink](pdf)]
+Download the Homomorphic Encryption Security Standard (March 16, 2018) [[pdf](/assets/oldlink)]
