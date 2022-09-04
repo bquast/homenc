@@ -1,8 +1,8 @@
 ---
-title: Team
+title: Participants
 layout: teams
-description: Team
-permalink: "/team/"
+description: Participants
+permalink: "/participants/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
