@@ -27,7 +27,7 @@ A long line of peer-reviewed research confirming the hardness of the RLWE proble
 
 As was mentioned above, the RLWE problem is closely related to famous hard lattice problems which are currently considered to be secure against quantum computers. 
 Similarly, RLWE and subsequently most homomorphic encryption schemes are considered to be secure against quantum computers, making them in fact more secure than factorization and discrete logarithm-based systems such as RSA and many forms of elliptic curve cryptography. 
-In fact, the post-quantum cryptography standardization project organized by NIST had several submissions based on hard lattice problems similar to what modern homomorphic encryption uses.
+In fact, the [post-quantum cryptography standardization project](https://csrc.nist.gov/Projects/Post-Quantum-Cryptography) organized by [NIST](https://www.nist.gov/) had several submissions based on hard lattice problems similar to what modern homomorphic encryption uses.
 
 ## Standardization
 There are several reasons why this is the right time to standardize homomorphic encryption:
