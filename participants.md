@@ -1,12 +1,64 @@
 ---
 title: Participants
-layout: teams
+layout: page
 description: Participants
-permalink: "/participants/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+Participants in our recent standardization workshops include representatives from the industry, government organizations and academia including the following.
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+## Industry
+
+* Microsoft
+* Samsung SDS
+* Intel
+* Duality Technologies
+* IBM
+* Tune Insights
+* Inpher
+* Google
+* SAP
+* Intuit
+* General Dynamics
+* Mastercard
+* CryptoExperts
+* Algorand Foundation
+* Mercedes Benz
+* Alibaba Group
+* LinkedIn
+* IXUP
+* Intertrust
+
+## Government
+
+* NIH
+* NIST
+* NSF
+* SPAWAR
+* SLAC National Accelerator Lab
+* United Nations / ITU
+
+## Academia
+
+* Boston University
+* Brown
+* CEA LIST
+* Columbia
+* EPFL
+* MIT
+* NJIT
+* NYU
+* Royal Holloway University
+* RIT
+* UCSD
+* Univ. of Cincinnati
+* Univ. of Hannover
+* Univ. of Michigan
+* Univ. Texas Austin
+* Univ. of Toronto
+* UC Irvine
+* Univ. of Waterloo
+* Sabanci University
+* Seoul National University
+* WPI
