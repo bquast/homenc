@@ -10,16 +10,16 @@ main:
     weight: 4
   - name: "Standards Meetings"
     url: "/meetings/"
-    weight: 4
+    weight: 5
   - name: "Affiliated Workshops"
     url: "/workshops/"
-    weight: 4
+    weight: 6
   - name: "Mailing Lists"
     url: "/mailings/"
-    weight: 4
+    weight: 7
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 8
 
 footer:
   - name: "Home"
