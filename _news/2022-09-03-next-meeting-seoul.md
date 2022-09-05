@@ -1,6 +1,6 @@
 ---
 title: "Next meeting Seoul 23-24 March 2023"
-date: 2019-09-038T15:15:26+02:00
+date: 2022-09-038T15:15:26+02:00
 ---
 
 The sixth meeting will take place in Seoul on 23 and 23 March 2023.
