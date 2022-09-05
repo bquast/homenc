@@ -1,10 +1,10 @@
 ---
-title: "Accounting"
-date: 2018-11-18T12:33:46+10:00
+title: "Cambridge MA"
+date: 2018-03-15T12:33:46+02:00
 weight: 1
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Cambridge, MA
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
