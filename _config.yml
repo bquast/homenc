@@ -34,6 +34,16 @@ defaults:
       layout: "service"
   - scope:
       path: ""
+      type: "news"
+    values:
+      layout: "new"
+  - scope:
+      path: ""
+      type: "meetings"
+    values:
+      layout: "meeting"
+  - scope:
+      path: ""
       type: "team"
     values:
       layout: "team"
