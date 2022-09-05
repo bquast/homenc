@@ -1,6 +1,6 @@
 ---
 title: News
-layout: services
+layout: news
 description: News overview
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
