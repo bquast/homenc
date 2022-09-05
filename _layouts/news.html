@@ -20,7 +20,8 @@ bodyClass: "page-services"
 
 <div class="container pt-6 pb-6">
   <div class="row">
-    {% for new in site.news %}
+    {% assign sorted = site.news | reverse %}
+    {% for new in sorted %}
     <div class="col-12 col-md-6 mb-3">
       <div class="service service-summary">
         <div class="service-content">
