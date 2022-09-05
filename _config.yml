@@ -19,6 +19,10 @@ collections:
     sort_by: weight
   meetings:
     output: true
+    sort_by: weight
+  news:
+    output: true
+    sort_by: date
   team:
     output: true
 
