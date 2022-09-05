@@ -17,6 +17,8 @@ collections:
   services:
     output: true
     sort_by: weight
+  meetings:
+    output: true
   team:
     output: true
 
