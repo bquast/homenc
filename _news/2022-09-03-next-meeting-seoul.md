@@ -1,5 +1,5 @@
 ---
-title: "Next meeting: Seoul 23-24 March 2023"
+title: "Next meeting Seoul 23-24 March 2023"
 date: 2019-09-038T15:15:26+02:00
 ---
 
