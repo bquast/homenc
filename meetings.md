@@ -1,6 +1,6 @@
 ---
 title: Meetings
-layout: services
+layout: meetings
 description: Meetings
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true

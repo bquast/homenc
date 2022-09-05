@@ -2,11 +2,11 @@ main:
   - name: "Introduction"
     url: "/introduction/"
     weight: 2
+  - name: "News"
+    url: "/news/"
+    weight: 3
   - name: "Standard"
     url: "/standard/"
-    weight: 3
-  - name: "Participants"
-    url: "/participants/"
     weight: 4
   - name: "Standards Meetings"
     url: "/meetings/"
@@ -14,12 +14,15 @@ main:
   - name: "Affiliated Workshops"
     url: "/workshops/"
     weight: 6
+  - name: "Participants"
+    url: "/participants/"
+    weight: 7
   - name: "Mailing Lists"
     url: "/mailings/"
-    weight: 7
+    weight: 8
   - name: "Contact"
     url: "/contact/"
-    weight: 8
+    weight: 9
 
 footer:
   - name: "Home"
